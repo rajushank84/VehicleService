@@ -1,6 +1,6 @@
 # VehicleService
 
-## Basic program to manage vehicle (car/bike) service .
+## Basic program to manage vehicle (car/bike) service.
 
 Will consist of two major DB tables and classes to create/update/delete:
 
