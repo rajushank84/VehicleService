@@ -16,4 +16,5 @@ Will consist of two major DB tables and classes to create/update/delete:
 Service line item will have a primary key and service entry will have a relationship to that. Service entry will have its own auto-generated primary key.
 
 SQL scripts to be stored in the SQL folder.
+
 Java programs to be stored in the Java folder.
